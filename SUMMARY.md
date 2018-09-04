@@ -2,7 +2,7 @@
 
 * [Introduction 介绍](README.md)
 
-* [知识梳理](README.md)
+* [知识梳理](Knowledge/README.md)
 
 * [开发规范](DevStandard/README.md)
     - [Code Style 代码规范](DevStandard/CodeStyle/README.md)
